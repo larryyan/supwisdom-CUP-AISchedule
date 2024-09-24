@@ -1,6 +1,6 @@
 # Class Schedule Import Script for Xiaomi
 
-**English** | [简体中文](README.zh-cn.md)
+[简体中文](README.md) | **English**
 
 - School: China University of Petroleum (Beijing)
 - Campus: Main Campus
