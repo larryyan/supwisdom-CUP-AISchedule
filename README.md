@@ -1,11 +1,11 @@
-# Class Schedule Import Script for Xiaomi
+# 小米手机导入课表脚本
 
-**English** | [简体中文](README.zh-cn.md)
+**简体中文** | [English](README-en.md)
+- 学校：中国石油大学（北京）
+- 校区：校本部
+- 适用人群：本科生
+- 教务系统：树维信息
+- 应用：小爱课程表
 
-- School: China University of Petroleum(Beijing)
-- Campus: Main Campus
-- Target: Undergraduate
-- System: Supwisdom
-- APP: AISchedule
+如有任何问题或建议，请提交issues。
 
-If there are any problems, please open issue.
