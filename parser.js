@@ -10,7 +10,7 @@ function scheduleHtmlParser(providerRes) {
   const courseInfos = activities.map(activity => {
     return {
       name: activity.courseName, // Extracting course name
-      position: `${activity.campus}${activity.room}`, // Combining building and room for position
+      position: activity.campus ? `${activity.campus} ${activity.room}` : activity.room, // Combining building and room for position
       teacher: activity.teachers.join(" "), // Extracting teacher's name
       weeks: activity.weekIndexes, // Using week indexes directly
       day: activity.weekday, // Extracting weekday
